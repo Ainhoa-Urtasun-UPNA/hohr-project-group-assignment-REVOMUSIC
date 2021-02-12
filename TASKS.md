@@ -15,9 +15,9 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 *
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):1491
 ***
-* List of your company's primary activities divided into engineering activities and operations activities:
+* List of your company's primary activities divided into engineering activities and operations activities: engineering activities: research, design of the instruments, prototyping the instruments and the instruments development. Operations activities: setting up the 3D printer, obtaining and handling the inventory of instruments and obtaining the raw materials to convert them in the instruments, carry out production of the instruments, finishing, logistics and transport and quality control.
 ***
-* List of your company's support activities:
+* List of your company's support activities: general management of the company, human resource management, including the job analysis and design, HR planning and recruitment of engineers, factory workers, marketing agents... Performance evaluation and compensation. In addition, accounting, marketing and financial management of the company.
 ***
 
 ## Task 2
