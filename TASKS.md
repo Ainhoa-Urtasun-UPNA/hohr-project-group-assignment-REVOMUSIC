@@ -9,10 +9,8 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*: 339992.
 ***
-* Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):1)Paulson & Co Inc: 735 employees. $239,690,614 sales volume. 2) Steinway Music Instrs Inc. 615 employees. $237,456,019 sales volume. 3) DAddario & Company Inc. 1100 employees. $180,081,516 sales volume
-* 
+* Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):1)Paulson & Co Inc: 735 employees. $239,690,614 sales volume. 2) Steinway Music Instrs Inc. 615 employees. $237,456,019 sales volume. 3) DAddario & Company Inc. 1100 employees. $180,081,516 sales volu 
 ***
-*
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):1491
 ***
 * List of your company's primary activities divided into engineering activities and operations activities: engineering activities: research, design of the instruments, prototyping the instruments and the instruments development. Operations activities: setting up the 3D printer, obtaining and handling the inventory of instruments and obtaining the raw materials to convert them in the instruments, carry out production of the instruments, finishing, logistics and transport and quality control.
