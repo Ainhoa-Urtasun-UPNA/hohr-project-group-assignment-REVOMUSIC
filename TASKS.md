@@ -23,14 +23,14 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 11-1021.00 - General and Operations Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
 * Education:
-* Wages:
+* Wages: $48.45 hourly, $100,780 annual
 * Top industry:
 ### Engineers
 * ONET-SOC code and title: 17-2112.00 - Industrial Engineers; 17-2071.00 - Electrical Engineers
