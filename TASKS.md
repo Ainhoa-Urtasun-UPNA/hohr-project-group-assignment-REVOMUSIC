@@ -6,8 +6,8 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Your company's name: REVOMUSIC
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
-Description from NICS: This U.S. industry comprises establishments primarily engaged in manufacturing musical instruments (except toys).
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*: 339992.
+Description from NICS: This U.S. industry comprises establishments primarily engaged in manufacturing musical instruments (except toys).
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):1)Paulson & Co Inc: 735 employees. $239,690,614 sales volume. 2) Steinway Music Instrs Inc. 615 employees. $237,456,019 sales volume. 3) DAddario & Company Inc. 1100 employees. $180,081,516 sales volu 
 ***
