@@ -33,7 +33,7 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 * Wages:
 * Top industry:
 ### Engineers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 17-2112.00 - Industrial Engineers; 17-2071.00 - Electrical Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
