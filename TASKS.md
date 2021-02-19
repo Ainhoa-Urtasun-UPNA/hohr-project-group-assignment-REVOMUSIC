@@ -35,7 +35,9 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 ### Engineers
 * ONET-SOC code and title: 17-2112.00 - Industrial Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
+***
  74 -	Core - Estimate production costs, cost saving methods, and the effects of product design changes on expenditures for management review, action, and control.
+***
 * 73 - Core	- Plan and establish sequence of operations to fabricate and assemble parts or products and to promote efficient utilization.
 * 70 - Core	- Analyze statistical data and product specifications to determine standards and establish quality and reliability objectives of finished product.
 * 70 - Core	- Confer with clients, vendors, staff, and management personnel regarding purchases, product and production specifications, manufacturing capabilities, or project status.
