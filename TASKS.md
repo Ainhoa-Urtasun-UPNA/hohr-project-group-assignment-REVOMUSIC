@@ -30,8 +30,8 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 * 75 - Direct administrative activities directly related to making products or providing services.
 * 74 - Prepare staff work schedules and assign specific duties.
 * 72 - Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
-* Is this job routine? Your judgment (0-10): 
-* Is this job cognitive? Your judgment (0-10): 
+* Is this job routine? Your judgment (0-10): 4
+* Is this job cognitive? Your judgment (0-10): 8
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 75 - Active Listening
 * 75 - Coordination
@@ -49,7 +49,7 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 * 19 - Some college, no degree
 * 15 - High school diploma or equivalent.
 * Wages: $48.45 hourly, $100,780 annual
-* Top industry:
+* Top industry:Retail Trade. Professional, Scientific, and Technical Services
 ### Engineers
 * ONET-SOC code and title: 17-2112.00 - Industrial Engineers; 17-2071.00 - Electrical Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
