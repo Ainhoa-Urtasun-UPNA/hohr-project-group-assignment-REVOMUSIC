@@ -25,11 +25,20 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 ### Managers
 * ONET-SOC code and title: 11-1021.00 - General and Operations Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
+* 
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
-* Education: Bachelor's degree, Some college, no degree and High school diploma or equivalent.
+* Customer relationship management CRM software
+* Data base user interface and query software
+* Enterprise resource planning ERP software
+* Operating system software
+* Project management software
+* Education: 
+* 29 - Bachelor's degree, 
+* 19 - Some college, no degree
+* 15 - High school diploma or equivalent.
 * Wages: $48.45 hourly, $100,780 annual
 * Top industry:
 ### Engineers
