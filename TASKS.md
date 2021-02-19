@@ -35,10 +35,25 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 ### Engineers
 * ONET-SOC code and title: 17-2112.00 - Industrial Engineers; 17-2071.00 - Electrical Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
+* 74 -	Core Estimate production costs, cost saving methods, and the effects of product design changes on expenditures for management review, action, and control.See more occupations related to this task.
+* 73 - Core	Plan and establish sequence of operations to fabricate and assemble parts or products and to promote efficient utilization.See more occupations related to this task.
+* 70 - Core	Analyze statistical data and product specifications to determine standards and establish quality and reliability objectives of finished product.See more occupations related to this task.
+* 70 - Core	Confer with clients, vendors, staff, and management personnel regarding purchases, product and production specifications, manufacturing capabilities, or project status.See more occupations related to this task.
+* 68  - Core Communicate with management and user personnel to develop production and design standards.
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* 75 - Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
+* 75 - Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
+* 75 - Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+* 72 - Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.See more occupations related to this skill.
+* 72 - Speaking — Talking to others to convey information effectively.
 * 5 technology skills
+* Analytical or scientific software — Finite element method FEM software; SAS Hot technology ; The MathWorks MATLAB Hot technology ; Workcell simulation software.
+* Computer aided design CAD software Hot technology — Autodesk AutoCAD Hot technology ; Bentley MicroStation Hot technology ; Dassault Systemes CATIA; UGS Solid Edge.
+* Data base user interface and query software — Data entry software Hot technology ; Microsoft Access Hot technology ; Microsoft SQL Server Hot technology ; Structured query language SQL Hot technology.
+* Development environment software — Integrated development environment IDE software Hot technology ; Microsoft Visual Basic Hot technology ; Microsoft Visual Studio Hot technology ; National Instruments LabVIEW Hot technology.
+* Industrial control software — Allen Bradley PanelView; Human machine interface HMI software; Quality control software; Supervisory control and data acquisition SCADA software Hot technology.
 * Education:
 * Wages:
 * Top industry:
