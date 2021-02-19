@@ -56,8 +56,10 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 ***
 * Wages: $48.45 hourly, $100,780 annual
 * Top industry:Retail Trade. Professional, Scientific, and Technical Services
+***
 ### Engineers
 * ONET-SOC code and title: 17-2112.00 - Industrial Engineers
+***
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * 74 -	Core - Estimate production costs, cost saving methods, and the effects of product design changes on expenditures for management review, action, and control.
 * 73 - Core	- Plan and establish sequence of operations to fabricate and assemble parts or products and to promote efficient utilization.
