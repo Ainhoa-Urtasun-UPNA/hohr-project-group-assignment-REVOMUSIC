@@ -43,18 +43,34 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 * Wages:
 * Top industry:
 ### Operators
-* ONET-SOC code and title: 51-9199.00 Production Workers, All Other
+* ONET-SOC code and title: 51-9161.00 Production Workers, All Other
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* 1- Measure dimensions of finished workpieces to ensure conformance to specifications, using precision measuring instruments, templates, and fixtures.
+* 2- Stop machines to remove finished workpieces or to change tooling, setup, or workpiece placement, according to required machining sequences.
+* 3- Transfer commands from servers to computer numerical control (CNC) modules, using computer network links.
+* 4- Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems.
+* 5- Adjust machine feed and speed, change cutting tools, or adjust machine controls when automatic programming is faulty or if machines malfunction.
+* Is this job routine? Your judgment (0-10): 8. This is a routinary work, in which always has to follow the same rules, but given that several instruments are done it is not always exactly the same.
+* Is this job cognitive? Your judgment (0-10): 5. The worker has to be able to face different possible situations that may appear and find solutions for them.
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* 1- Quality Control Analysis -  Conducting tests and inspections of products, services, or processes to evaluate quality or performance. (66)
+* 2- Time Management -Managing one's own time and the time of others. (53)
+* 3- Equipment Maintenance - Performing routine maintenance on equipment and determining when and what kind of maintenance is needed. (50)
+* 4- Operation Monitoring - Watching gauges, dials, or other indicators to make sure a machine is working properly. (75)
+* 5- Complex Problem Solving -  Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. (56)
 * 5 technology skills:
+* 1- Computer aided manufacturing CAM software
+* 2- Industrial control software
+* 3- Information retrieval or search software
+* 4- Analytical or scientific software
+* 5- Spreadsheet software
 * Education:
-* Wages:$14.33 hourly, $29,800 annual
-* Top industry:
-Manufacturing
-Administrative and Support Services
-***
+* High school diploma or equivalent (39%)
+* Post-secondary certificate (19%)
+* Some college, no degree (15%)
+* Wages:$19.81 hourly, $41,200 annual
+* Top industry: Manufacturing (95%)
+* 
 
 ## Task 3
 * Objective: forecast your firm's number of available workers using Python (click the black button at the top of the README.md file)
