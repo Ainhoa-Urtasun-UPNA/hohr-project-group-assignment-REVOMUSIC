@@ -25,14 +25,23 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 ### Managers
 * ONET-SOC code and title: 11-1021.00 - General and Operations Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* 
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* 77 - Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement.
+* 76 - Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.
+* 75 - Direct administrative activities directly related to making products or providing services.
+* 74 - Prepare staff work schedules and assign specific duties.
+* 72 - Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
+* Is this job routine? Your judgment (0-10): 
+* Is this job cognitive? Your judgment (0-10): 
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* 75 - Active Listening
+* 75 - Coordination
+* 75 - Monitoring
+* 75 - Social Perceptiveness
+* 75 - Speaking
 * 5 technology skills:
 * Customer relationship management CRM software
 * Data base user interface and query software
-* Enterprise resource planning ERP software
+* Enterprise resource planning ERP software 
 * Operating system software
 * Project management software
 * Education: 
