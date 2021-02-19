@@ -52,6 +52,8 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 * Education:
 * Wages:$14.33 hourly, $29,800 annual
 * Top industry:
+Manufacturing
+Administrative and Support Services
 ***
 
 ## Task 3
