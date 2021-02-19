@@ -29,7 +29,7 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
-* Education:
+* Education: Bachelor's degree, Some college, no degree and High school diploma or equivalent.
 * Wages: $48.45 hourly, $100,780 annual
 * Top industry:
 ### Engineers
