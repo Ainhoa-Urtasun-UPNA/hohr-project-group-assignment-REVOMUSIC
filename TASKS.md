@@ -36,18 +36,18 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 * Is this job cognitive? Your judgment (0-10): 8. It is a cognitive job, as managers need to react to different circumstances.
 ***
 * 5 most important skills they require to possess (provide the importance score, in Details):
-* 75 - Active Listening
-* 75 - Coordination
-* 75 - Monitoring
-* 75 - Social Perceptiveness
-* 75 - Speaking
+* 75 - Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+* 75 - Coordination — Adjusting actions in relation to others' actions.
+* 75 - Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.
+* 75 - Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.
+* 75 - Speaking — Talking to others to convey information effectively.
 ***
 * 5 technology skills:
-* Customer relationship management CRM software
-* Data base user interface and query software
-* Enterprise resource planning ERP software 
-* Operating system software
-* Project management software
+* Customer relationship management CRM software — Oracle Eloqua; Sage ACT!; Salesforce software Hot technology ; Sugar CRM
+* Data base user interface and query software — Amazon Web Services AWS software Hot technology ; Data entry software Hot technology ; Microsoft Access Hot technology ; Oracle software
+* Enterprise resource planning ERP software — Microsoft Dynamics Hot technology ; Oracle Fusion Applications; Oracle PeopleSoft Hot technology ; SAP 
+* Operating system software — Apple macOS Hot technology ; Microsoft Windows Hot technology ; Oracle Solaris Hot technology ; Shell script Hot technology
+* Project management software — Confluence Hot technology ; Microsoft Project Hot technology ; Oracle Primavera Enterprise Project Portfolio Management Hot technology ; Realization Streamliner
 ***
 * Education: 
 * 29 - Bachelor's degree, 
