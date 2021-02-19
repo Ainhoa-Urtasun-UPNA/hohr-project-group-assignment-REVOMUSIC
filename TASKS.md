@@ -31,7 +31,9 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 * 5 technology skills:
 * Education:
 * Wages: $48.45 hourly, $100,780 annual
-* Top industry:
+* Top industry: 
+Retail Trade
+Professional, Scientific, and Technical Services
 ### Engineers
 * ONET-SOC code and title: 17-2112.00 - Industrial Engineers; 17-2071.00 - Electrical Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
