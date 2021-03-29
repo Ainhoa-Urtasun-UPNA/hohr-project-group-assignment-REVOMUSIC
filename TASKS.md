@@ -149,11 +149,53 @@ The forecast of the number of workers needed are 4 managers, 12 engineers and 7 
 ***
 ### Job posting for Managers:
 ### Job posting for Engineers:
+* ONET-SOC code and title: 17-2112.00 - Industrial Engineers; 17-2071.00 - Electrical Engineers.
+
+* Industry (NAICS title and code): 339992. Musical Instrument Manufacturing.
+
+* List of tasks: 
+Operate computer-assisted engineering or design software or equipment to perform engineering tasks.See more occupations related to this task.
+Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements.See more occupations related to this task.
+Confer with engineers, customers, or others to discuss existing or potential engineering projects or products.See more occupations related to this task.
+Design, implement, maintain, or improve electrical instruments, equipment, facilities, components, products, or systems for commercial, industrial, or domestic purposes.See more occupations related to this task.
+Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements.
+
+* List of skills:
+Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
+Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.See more occupations related to this skill.
+Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
+Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+Writing — Communicating effectively in writing as appropriate for the needs of the audience.
+Proactive — The ability to anticipate, plan and prepare for what lies ahead. You act rather than react to potential situations.
+Curious — The ability to explore and drive new ideas. You think innovatively to come up with creative solutions to complex challenges.
+Collaborative — There is no innovation without imagination. You bring new, different and exciting ideas to the table every day. You are committed to the success of your team.
+
+* Required credentials and years of experience: 
+Bachelor of Science Degree in Electrical Engineering, technical or related field preferred.
+I&C experience.
+Experience creating and designing automation controls systems.
+3+ years of direct experience as a controls engineer working on automated processes/system integration in manufacturing environments.
+Experience with field instrumentation, control system installation and configuration.
+
+* Job type: 
+Full-time.
+
+* Location: 
+Pamplona, Navarre, Spain.
+
+* Salary, benefits and perks: 
+$47.37 hourly, $98,530 annual.
+Healthcare: Medical, Dental and Vision coverage is available for employees who opt-in.
+Professional Development: We support our employees through mentoring, internal & external educational programs, networking, skills enhancement and career-building programs.
+Maternity and Paternity Leave: Our generous parental leave policies support your journey into parenthood. When you return to work, our facilities offer mother's rooms to support your transition and work/life balance.
+Paid Time Off: We offer PTO, paid holidays and paid time off for jury duty and military obligations.
+***
+
 ### Job posting for Operators: 3 Operators needed
 * 51-9161.00 - Computer Numerically Controlled Tool Operators
 * 339992 - Musical Instruments Manufacturing
 * Tasks of the job: Measure dimensions of finished workpieces to ensure conformance to specifications, using precision measuring instruments, templates, and fixtures. Stop machines to remove finished workpieces or to change tooling, setup, or workpiece placement, according to required machining sequences. Transfer commands from servers to computer numerical control (CNC) modules, using computer network links. Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems. Adjust machine feed and speed, change cutting tools, or adjust machine controls when automatic programming is faulty or if machines malfunction. Ensure that all assigned equipment is properly maintained, clean, in safe working order and operated properly. Prepare plant for operations at the beginning of each shift and performs shut down procedures at the end of day.
-*Skills required: Quality Control Analysis, time Management, equipment Maintenance, operation Monitoring and complex Problem Solving.
+* Skills required: Quality Control Analysis, time Management, equipment Maintenance, operation Monitoring and complex Problem Solving.
 No studies needed, the requirement is to have 1 year of experience in a similar workplace. 
 * Full-time presential job
 * Pamplona
