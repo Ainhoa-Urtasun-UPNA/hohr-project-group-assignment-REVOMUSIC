@@ -150,14 +150,14 @@ The forecast of the number of workers needed are 4 managers, 12 engineers and 7 
 ### Job posting for Managers:
 ### Job posting for Engineers:
 ### Job posting for Operators: 3 Operators needed
-51-9161.00 - Computer Numerically Controlled Tool Operators
-339992 - Musical Instruments Manufacturing
-Tasks of the job: Measure dimensions of finished workpieces to ensure conformance to specifications, using precision measuring instruments, templates, and fixtures. Stop machines to remove finished workpieces or to change tooling, setup, or workpiece placement, according to required machining sequences. Transfer commands from servers to computer numerical control (CNC) modules, using computer network links. Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems. Adjust machine feed and speed, change cutting tools, or adjust machine controls when automatic programming is faulty or if machines malfunction.
+* 51-9161.00 - Computer Numerically Controlled Tool Operators
+* 339992 - Musical Instruments Manufacturing
+* Tasks of the job: Measure dimensions of finished workpieces to ensure conformance to specifications, using precision measuring instruments, templates, and fixtures. Stop machines to remove finished workpieces or to change tooling, setup, or workpiece placement, according to required machining sequences. Transfer commands from servers to computer numerical control (CNC) modules, using computer network links. Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems. Adjust machine feed and speed, change cutting tools, or adjust machine controls when automatic programming is faulty or if machines malfunction.
 Skills required: Quality Control Analysis, time Management, equipment Maintenance, operation Monitoring and complex Problem Solving.
 No studies needed, the requirement is to have 1 year of experience in a similar workplace. 
-Full-time presential job
-Pamplona
-Salary: 12€ per hour.
+* Full-time presential job
+* Pamplona
+* Salary: 12€ per hour.
 ***
 
 ## Task 6
