@@ -32,7 +32,7 @@ Explanation of the product: 3d printed musical instruments such as electric guit
 * 74 - Prepare staff work schedules and assign specific duties.
 * 72 - Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
 ***
-* Is this job routine? Your judgment (0-10): 4. There are some rutinary tasks, but mostly this job is about being able to come up with ideas, give solutions, being a leader...
+* Is this job routine? Your judgment (0-10): 4. There are some routinary tasks, but mostly this job is about being able to come up with ideas, give solutions, being a leader...
 * Is this job cognitive? Your judgment (0-10): 8. It is a cognitive job, as managers need to react to different circumstances.
 ***
 * 5 most important skills they require to possess (provide the importance score, in Details):
