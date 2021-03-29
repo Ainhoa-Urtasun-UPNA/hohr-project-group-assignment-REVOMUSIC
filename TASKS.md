@@ -139,17 +139,25 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 
 ***
-The forecast of the number of workers needed are 4 managers, 12 engineers and 7 operators. Considering the predictions of the number of available workers, there will be a shortage of 3 managers, 11 engineers and 5 operators. Therefore, the strategy Revomusic will carry out will be an upsizing strategy, regarding managers, the best alternatives might be either increase the workweek or the overtime for the managers, and also hire new managers. The same could be applied to engineers. Regarding operators it is more advisable to hire more workers instead of increasing workweek and overtime, as their work is based on routine and it is more physical, besides, their salaries are lower so it is affordable to hire more operators.
+The forecast of the number of workers needed are 4 managers, 12 engineers and 7 operators. Considering the predictions of the number of available workers, there will be a shortage of 3 managers, 11 engineers and 5 operators. Therefore, the strategy Revomusic will carry out will be an upsizing strategy, regarding managers, the best alternatives might be either increase the workweek or the overtime for the managers, and also hire new managers. The same could be applied to engineers. Regarding operators it is more advisable to hire more workers instead of increasing workweek and overtime, as their work is based on routine and it is more physical, besides, their salaries are lower so it is affordable to hire more operators. Attending to the automation risk of this occupation, which is higher to 90%, another solution could be to replace some operators workplaces by machinery.
 ***
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help. 
-* Regarding our predictions of necessity and availability, we have came to the conclusion that there will be a shortage in the three occupations of Revomusic. As for the managers, it has been decided to increase the workweek and overtime so the necessity of managers can be partially compensated, nevertheless, we will still need 2 new managers. Regarding engineers, the same solution is thought to be optimal, so instead of 11 engineers, which would mean too many new workers for our company, 8 engineers will be hired and the work-hours needed will be achieved by increasing their workweek and overtime. Lastly, as for the operators, we have decided that increasing the workweek and overtime may be not an effective solution as their work is more routinary and physical. Therefore, 5 operator will be hired. 
-* Job opening: 2 managers, 8 engineers and 5 operators
+* Regarding our predictions of necessity and availability, we have came to the conclusion that there will be a shortage in the three occupations of Revomusic. As for the managers, it has been decided to increase the workweek and overtime so the necessity of managers can be partially compensated, nevertheless, we will still need 2 new managers. Regarding engineers, the same solution is thought to be optimal, so instead of 11 engineers, which would mean too many new workers for our company, 8 engineers will be hired and the work-hours needed will be achieved by increasing their workweek and overtime. Lastly, as for the operators, we have decided that increasing the workweek and overtime may be not an effective solution as their work is more routinary and physical. Nevertheless, attending to this occupation automation risk, we have decided to invest in machinery to replace workers, so the operators needed will be just 3, as their tasks will be reduced by the implantation of machinery.  
+* Job opening: 2 managers, 8 engineers and 3 operators
 ***
 ### Job posting for Managers:
 ### Job posting for Engineers:
-### Job posting for Operators:
+### Job posting for Operators: 3 Operators needed
+51-9161.00 - Computer Numerically Controlled Tool Operators
+339992 - Musical Instruments Manufacturing
+Tasks of the job: Measure dimensions of finished workpieces to ensure conformance to specifications, using precision measuring instruments, templates, and fixtures. Stop machines to remove finished workpieces or to change tooling, setup, or workpiece placement, according to required machining sequences. Transfer commands from servers to computer numerical control (CNC) modules, using computer network links. Listen to machines during operation to detect sounds such as those made by dull cutting tools or excessive vibration, and adjust machines to compensate for problems. Adjust machine feed and speed, change cutting tools, or adjust machine controls when automatic programming is faulty or if machines malfunction.
+Skills required: Quality Control Analysis, time Management, equipment Maintenance, operation Monitoring and complex Problem Solving.
+No studies needed, the requirement is to have 1 year of experience in a similar workplace. 
+Full-time presential job
+Pamplona
+Salary: 12€ per hour.
 ***
 
 ## Task 6
