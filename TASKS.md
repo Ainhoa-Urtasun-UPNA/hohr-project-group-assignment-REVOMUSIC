@@ -93,8 +93,11 @@ Last but not least, for each occupation, compare your predictions to anticipate 
 ***
 ### Job posting for Managers:
 **JOB TITLE** : Manager (- 2 managers needed.
+***
 **OCCUPATION (SOC LABEL AND CODE)**:  11-1021.00 - General and Operations Managers
+***
 **INDUSTRY (NAICS TITLE AND CODE)**: 339992 - Musical Instrument Manufacturing
+***
 **LIST OF TASKS**:
 - Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.
 - Direct administrative activities directly related to making products or providing services.
@@ -105,6 +108,7 @@ Last but not least, for each occupation, compare your predictions to anticipate 
 - For new project, the project manager will be responsible for the work breakdown structure, detailed project schedule, project risk, opportunity and improvement management, Project Launch, Change management and contractual obligation management, budget allocation and monitoring, Project Reporting internally both status and financial performance.
 - Have the authority and the obligation to review the effort of the project core team members and to give directives related to the project execution.
 - Availability for short-term travel (2 – 10 days) as need.
+***
 **LIST OF SKILLS**:
 - Active Listening
 - Coordination
@@ -115,10 +119,15 @@ Last but not least, for each occupation, compare your predictions to anticipate 
 - Ability to work under pressure to meet project deadlines.
 - Excellent time management skills with the ability to multi-task.
 - Ability to identify possible risks/issues/problems and apply critical thinking skills to volunteer possible solutions and plans of action.
+***
 **REQUIRED CREDENTIALS AND YEARS OF EXPERIENCE**: University degree in an appropiate discipline (Business Management, Engineering). 2+ years of experience in a management job (preference if it is on the same sector) 
+***
 **JOB TYPE**: Full-time job (8 hours per day, 5 days a week)
+***
 **LOCATION**: Pamplona, Navarra, Spain. 
+***
 **SALARY, BENEFITS AND PERKS**: €80.000 annual
+***
 ### Job posting for Engineers:
 ### Job posting for Operators:
 ***
