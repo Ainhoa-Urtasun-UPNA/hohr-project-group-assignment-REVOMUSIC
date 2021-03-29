@@ -139,7 +139,7 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 
 ***
-The forecast of the number of workers needed are 4 managers, 12 engineers and 7 operators.
+The forecast of the number of workers needed are 4 managers, 12 engineers and 7 operators. Considering the predictions of the number of available workers, there will be a shortage of 3 managers, 11 engineers and 5 operators. Therefore, the strategy Revomusic will carry out will be an upsizing strategy, regarding managers, the best alternatives might be either increase the workweek or the overtime for the managers, and also hire new managers. The same could be applied to engineers. Regarding operators it is more advisable to hire more workers instead of increasing workweek and overtime, as their work is based on routine and it is more physical, besides, their salaries are lower so it is affordable to hire more operators.
 ***
 
 ## Task 5
