@@ -22,7 +22,9 @@ The company is composed by managers, engineers and technicians.
 
 Eric Clapton, Joaquín Sabina and Jimi Hendrix
 
-All the managers of the company are specialist in business management, with at least 2 years of experience in previous important companies and with relevant skills like coordination, monitoring skills, social perceptiveness, high level of English, the ability to communicate issues clearly to both business and technology professionals and the ability to work under pressure to meet project deadlines. Most of them also have excellent time management skills as well as the ability to identify possible risks, issues or problems and apply critical thinking skills to volunteer possible solutions and plans of action.
+All the managers of the company are specialist in business management, with at least 2 years of experience in previous important companies and with relevant skills like coordination, monitoring skills, social perceptiveness, high level of English, the ability to communicate issues clearly to both business and technology professionals and the ability to work under pressure to meet project deadlines. 
+
+Most of them also have excellent time management skills as well as the ability to identify possible risks, issues or problems and apply critical thinking skills to volunteer possible solutions and plans of action.
 
 They are more related to cognitive task rather than routine ones.
 Their main task is review financial statements as well as direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.
