@@ -4,7 +4,8 @@
 REVOMUSIC is a company created in 2021, it is dedicated to the manufacturing of musical instruments using 3D printing technology. Some of its products are electric guitars and electric violins. Its headquarters are located in Pamplona. 
 ***
 ## ACTIVITIES
-REVOMUSIC's activities are divided into primary and support activities. 
+REVOMUSIC's activities are divided into primary and![WhatsApp Image 2021-04-12 at 16 20 45 (2)](https://user-images.githubusercontent.com/78742466/114410356-99fade80-9bab-11eb-9ba3-473c4c9c14dc.jpeg)
+ support activities. 
 
 Primary activities: 
 
