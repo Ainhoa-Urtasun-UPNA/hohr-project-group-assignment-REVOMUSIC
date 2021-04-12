@@ -1,4 +1,4 @@
-### REVOMUSIC
+# REVOMUSIC
 
 ## THE COMPANY
 REVOMUSIC is a company created in 2021, it is dedicated to the manufacturing of musical instruments using 3D printing technology. Some of its products are electric guitars and electric violins. Its headquarters are located in Pamplona. 
@@ -18,7 +18,7 @@ Support activities: general management of the company, human resource management
 Our company is composed by the best experts in the fields, with high experience in the markets and actualize in the new methods and using innovate technologies as well as the latest techniques in each department to provide the best instruments in Europe.
 The company is composed by managers, engineers and technicians. 
 
-# Managers: (3)
+### Managers: (3)
 
 Eric Clapton, Joaquín Sabina and Jimi Hendrix
 
@@ -28,11 +28,11 @@ They are more related to cognitive task rather than routine ones.
 Their main task is review financial statements as well as direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.
 They are also responsible of the preparation of the staff work schedules and assign specific duties and to monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits
 
-# Engineers: (1)
+### Engineers: (1)
 
 Tom Morello
 
 
-# Technicians: (1)
+### Operators: (1)
 
 Paco de Lucía
