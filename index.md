@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+### REVOMUSIC
+**
+## THE COMPANY
+REVOMUSIC is a company created in 2021, it is dedicated to the manufacturing of musical instruments using 3D printing technology. Some of its products are electric guitars and electric violins. Its headquarters are located in Pamplona. 
+***
+## ACTIVITIES
+REVOMUSIC's activities are divided into primary and support activities. 
+Primary activities are directly related to the production of the instruments, here we differentiate between engineering and operations activities. Regarding engineering activities, there are research, design of the product, prototyping the instruments and their development. As to operations activities we distinguish activities such as setting up the 3D printer, obtaining and handling the inventory of instruments and obtaining the raw materials to convert them in the instruments, carry out production of the instruments, finishing, logistics and transport and quality control.
+On the other hand, REVOMUSIC's support activities are general management of the company, human resource management, including the job analysis and design, HR planning and recruitment of engineers, factory workers, marketing agents... Performance evaluation and compensation. In addition, accounting, marketing and financial management of the company.
 
-You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-REVOMUSIC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-REVOMUSIC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
