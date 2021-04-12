@@ -13,16 +13,20 @@ Primary activities:
 
 Support activities: general management of the company, human resource management, including the job analysis and design, HR planning and recruitment of engineers, factory workers, marketing agents... Performance evaluation and compensation. In addition, accounting, marketing and financial management of the company.
 
+![WhatsApp Image 2021-04-12 at 16 34 27](https://user-images.githubusercontent.com/78742466/114412057-0cb88980-9bad-11eb-9138-1ec18c1382a8.jpeg)
+
+
 ## COMPONENTS
 
 Our company is composed by the best experts in the fields, with high experience in the markets and actualize in the new methods and using innovate technologies as well as the latest techniques in each department to provide the best instruments in Europe.
+
 The company is composed by managers, engineers and technicians. 
- ![WhatsApp Image 2021-04-12 at 16 20 45 (2)](https://user-images.githubusercontent.com/78742466/114410356-99fade80-9bab-11eb-9ba3-473c4c9c14dc.jpeg)
+
+
 ### Managers: (3)
 
 _Edilberto Esteban, Sergio Martínez y Juan Rodríguez_
 
-All the managers of the company are specialist in business management, with at least 2 years of experience in previous important companies and with relevant skills like coordination, monitoring skills, social perceptiveness, high level of English, the ability to communicate issues clearly to both business and technology professionals and the ability to work under pressure to meet project deadlines. 
 
 *Skills*: 
 
