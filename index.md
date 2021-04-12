@@ -20,15 +20,17 @@ The company is composed by managers, engineers and technicians.
 
 ### Managers: (3)
 
-_Eric Clapton, Joaquín Sabina and Jimi Hendrix_
+_Edilberto Esteban, Sergio Martínez y Juan Rodríguez_
 
 All the managers of the company are specialist in business management, with at least 2 years of experience in previous important companies and with relevant skills like coordination, monitoring skills, social perceptiveness, high level of English, the ability to communicate issues clearly to both business and technology professionals and the ability to work under pressure to meet project deadlines. 
 
 *Skills*: 
+
 1.time management  
 2.identifying possible risks, issues or problems 
 
 *Tasks*: cognitive rather routinary. 
+
 1.review financial statements
 2.direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products
 
@@ -36,9 +38,9 @@ They are also responsible of the preparation of the staff work schedules and ass
 
 ### Engineers: (1)
 
-_Tom Morello_
+_María Goñi_
 
 
 ### Operators: (1)
 
-_Paco de Lucía_
+_Nicolás Gens_
