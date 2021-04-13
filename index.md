@@ -20,28 +20,4 @@ The company is formed by managers, engineers and technicians.
 ![WhatsApp Image 2021-04-12 at 16 40 38](https://user-images.githubusercontent.com/78742466/114413128-fd860b80-9bad-11eb-9049-6ce91f6169b9.jpeg)
 
 
-### Managers: (3)
-
-_Edilberto Esteban, Sergio Martínez y Juan Rodríguez_
-
-
-*Skills*: 
-
-1.time management  
-2.identifying possible risks, issues or problems 
-
-*Tasks*: cognitive rather routinary. 
-
-1.review financial statements
-2.direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products
-
-They are also responsible of the preparation of the staff work schedules and assign specific duties and to monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits
-
-### Engineers: (1)
-
-_María Goñi_
-
-
-### Operators: (1)
-
-_Nicolás Gens_
+![WhatsApp Image 2021-04-13 at 10 40 11](https://user-images.githubusercontent.com/78742466/114523790-e9d9b400-9c44-11eb-9760-a8f58b9fe1e3.jpeg)
