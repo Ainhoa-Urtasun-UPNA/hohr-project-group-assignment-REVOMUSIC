@@ -19,5 +19,6 @@ The company is formed by managers, engineers and technicians.
 
 ![WhatsApp Image 2021-04-12 at 16 40 38](https://user-images.githubusercontent.com/78742466/114413128-fd860b80-9bad-11eb-9049-6ce91f6169b9.jpeg)
 
+***
 
 ![WhatsApp Image 2021-04-13 at 10 40 11](https://user-images.githubusercontent.com/78742466/114523790-e9d9b400-9c44-11eb-9760-a8f58b9fe1e3.jpeg)
