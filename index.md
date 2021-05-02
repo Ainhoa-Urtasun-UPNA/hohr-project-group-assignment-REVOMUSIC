@@ -21,6 +21,8 @@ The company is formed by managers, engineers and technicians.
 
 ![Managers](https://user-images.githubusercontent.com/78742466/116724812-64def080-a9e1-11eb-98b1-616aa69e6db2.jpeg)
 ![Engineers](https://user-images.githubusercontent.com/78742466/116783319-65819080-aa8e-11eb-8df4-171576426026.jpeg)
+![operators](https://user-images.githubusercontent.com/78742466/116816669-325d0100-ab63-11eb-91ec-e89deead2e9a.jpeg)
+
 
 
 ***
