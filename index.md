@@ -13,7 +13,7 @@ REVOMUSIC is a company created in 2021, it is dedicated to the manufacturing of 
 ***
 ## COMPONENTS
 
-Our company is composed by the best experts in the fields, with high experience in the markets and actualize in the new methods and using innovate technologies as well as the latest techniques in each department to provide the best instruments in Europe.
+Our company is composed by the best experts in the fields, with high experience in the markets and actualized in the new methods and using innovate technologies as well as the latest techniques in each department to provide the best instruments in Europe.
 
 The company is formed by managers, engineers and technicians. 
 
